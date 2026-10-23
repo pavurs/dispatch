@@ -1,0 +1,30 @@
+{
+  "apps": {
+    "marshruty": {
+      "version": "2.5.1",
+      "build": 10,
+      "parts": [
+        "marshruty-2.5.1-10.apk.part0",
+        "marshruty-2.5.1-10.apk.part1"
+      ],
+      "size": 117917381,
+      "sha256": "d4263d117cb6707d7d562f75deeb8f5cfa7357bc7ac351928ba700d389351977",
+      "abi": "arm64-v8a",
+      "notes": "Пересчёт маршрута от того места, где курьер сейчас",
+      "date": "2026-10-23T08:56:19Z"
+    },
+    "marshruty-pro": {
+      "version": "2.7.4",
+      "build": 17,
+      "parts": [
+        "marshruty-pro-2.7.4-17.apk.part0",
+        "marshruty-pro-2.7.4-17.apk.part1"
+      ],
+      "size": 118386257,
+      "sha256": "bb3e30cb77f532982b13e5546102992f76746a694b36c8c4ed30e3ffc6402814",
+      "abi": "arm64-v8a",
+      "notes": "Пересчёт маршрута от того места, где курьер сейчас",
+      "date": "2026-10-23T08:56:20Z"
+    }
+  }
+}
