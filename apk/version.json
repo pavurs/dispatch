@@ -1,0 +1,43 @@
+{
+  "apps": {
+    "marshruty": {
+      "version": "2.5.7",
+      "build": 16,
+      "parts": [
+        "marshruty-2.5.7-16.apk.part0",
+        "marshruty-2.5.7-16.apk.part1"
+      ],
+      "size": 118048817,
+      "sha256": "1b1bd5911a15ba8c1a0d56f0dc3d6f3aa8cf4572094a3943dcc4f649de39f4ae",
+      "abi": "arm64-v8a",
+      "notes": "Маршруты Фермерофф: после очистки маршрута точка старта снова склад",
+      "date": "2026-10-30T20:22:59Z"
+    },
+    "marshruty-pro": {
+      "version": "2.7.9",
+      "build": 22,
+      "parts": [
+        "marshruty-pro-2.7.9-22.apk.part0",
+        "marshruty-pro-2.7.9-22.apk.part1"
+      ],
+      "size": 118583133,
+      "sha256": "66aa42f0992bb2db1c098f9906a0a3404727729311dd3aae6050f7be03c71689",
+      "abi": "arm64-v8a",
+      "notes": "Маршруты Фермерофф: после очистки маршрута точка старта снова склад",
+      "date": "2026-10-30T20:26:42Z"
+    },
+    "marshruty-fermeroff": {
+      "version": "1.0.3",
+      "build": 4,
+      "parts": [
+        "marshruty-fermeroff-1.0.3-4.apk.part0",
+        "marshruty-fermeroff-1.0.3-4.apk.part1"
+      ],
+      "size": 118583233,
+      "sha256": "1ceb0651609ee5eec12d2fa79d0acfa4fad90b3286ba6673984148a269d6558e",
+      "abi": "arm64-v8a",
+      "notes": "Маршруты Фермерофф: после очистки маршрута точка старта снова склад",
+      "date": "2026-10-30T20:23:54Z"
+    }
+  }
+}
