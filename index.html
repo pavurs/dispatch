@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Диспетчер</title>
+  <meta name="description" content="Диспетчерская для курьеров: маршруты, статусы доставок и местоположение на карте">
+  <meta name="theme-color" content="#13203B">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Диспетчер">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="styles.css">
+  <script src="config.js"></script>
+</head>
+<body>
+  <div id="app" class="app">
+    <div class="splash">
+      <img src="icons/icon-192.png" alt="" width="72" height="72">
+      <div class="splash-title">Диспетчер</div>
+      <div class="spinner"></div>
+    </div>
+  </div>
+  <div id="sheet-root"></div>
+  <div id="toasts" aria-live="polite"></div>
+  <script src="app.js"></script>
+</body>
+</html>
